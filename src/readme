@@ -1,0 +1,11 @@
+My driver program is a main method.
+Input should be provided in format (Type,Price,Quantity)
+
+Enter stop to discontinue the input loop.
+
+Driver method takes input
+Helper Class for data as per requirement
+Created POJO for input Format
+Created Enum for OrderType since Order type can be a custom data structure(can be restricted to buy/sell only).
+Service does all the calculation part.
+
